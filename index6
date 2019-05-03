@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>文档标题</title>
+  <iframe id="api_iframe_51240" name="api_iframe_51240" src="" width="800" height="800" scrolling="no" frameborder="0"></iframe>
+<script type="text/javascript">
+//接口生成：https://www.51240.com/api/
+document.getElementById("api_iframe_51240").src = "https://www.51240.com/apiiframe/?api_from=51240&api_url=https://www.51240.com/&api_width=98%&api_backgroundcolor=FFFFFF&api_agent="+location.href.match(/^.*?\:\/\/[^\/]+\//i)+"wypc.github.io";
+</script>
+</head>
+<body>
+  <div>
+    
+  <div align="center">
+	<a href="http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzU4NDc1OTU3NQ==#wechat_webview_type=1&wechat_redirect">东南亚今日在线</a>
+  </div>
+</body>
+</html>
